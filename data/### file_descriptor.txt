@@ -1,0 +1,25 @@
+input01.xlsx: Pluviograph [mm/d] 
+input02.xlsx: PET [mm/d] 
+input03.xlsx: T [°C] 
+
+observed01.xlsx: net discharge 2013 [m³/s]
+observed02.xlsx: net discharge 2014 [m³/s]
+
+observed03.xlsx: Fractions GW preMonsoon 2013 [-] <-ignore date
+observed04.xlsx: Fractions SSF preMonsoon 2013 [-] <-ignore date
+observed05.xlsx: Fractions RZ preMonsoon 2013 [-] <-ignore date
+
+observed06.xlsx: Fractions GW Wet-up 2013 [-] <-ignore date
+observed07.xlsx: Fractions SSF Wet-up 2013 [-] <-ignore date
+observed08.xlsx: Fractions RZ Wet-up 2013 [-] <-ignore date
+
+observed09.xlsx: Fractions GW Monsoon 2013 [-] <-ignore date
+observed10.xlsx: Fractions SSF Monsoon 2013 [-] <-ignore date
+observed11.xlsx: Fractions RZ Monsoon 2013 [-] <-ignore date
+
+observed12.xlsx: Fractions GW Drying-up 2013 [-] <-ignore date
+observed13.xlsx: Fractions SSF Drying-up 2013 [-] <-ignore date
+observed14.xlsx: Fractions RZ Drying-up 2013 [-] <-ignore date
+
+
+
